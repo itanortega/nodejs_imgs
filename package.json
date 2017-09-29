@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_imgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itanortega/nodejs_imgs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itanortega/nodejs_imgs/issues"
+  },
+  "homepage": "https://github.com/itanortega/nodejs_imgs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "jade": "^1.11.0"
+  }
+}
